@@ -3,6 +3,7 @@ public class wrapperClass {
     {
          Integer refVar =Integer.valueOf("123");
          Double d1=Double.valueOf("7.383");
+         System.out.println(d1);
          int i=Integer.parseInt("987");
          System.out.println(i);
 
