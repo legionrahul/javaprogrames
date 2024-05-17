@@ -1,10 +1,10 @@
 public class constrct {
     private int a,b;
-    public constrct()
+    public constrct()   //non parameterised constructor
     {
         System.out.println("constructor is started");
     }
-    public constrct(int a,int b)
+    public constrct(int a,int b)   //parameterised constructor
     {
         this.a=a;
         this.b=b;
