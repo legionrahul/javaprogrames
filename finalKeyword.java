@@ -1,7 +1,7 @@
 public class finalKeyword {
     public final int x;
     {
-        x=7;
+        x=66;
     }
     public static final int y;
     static{
@@ -20,3 +20,30 @@ public class finalKeyword {
     }
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
