@@ -12,6 +12,7 @@ public class typeConversion {
         int intergerNumber=(int)floatNumber;
 
         System.out.print(intergerNumber);
+        
     }
     
 }
